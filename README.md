@@ -1,8 +1,9 @@
 <div align="center">
 
-![Masterhead Image](https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif)
+<img src="https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif" alt="Masterhead Image" style="width:100%; height:200;">
 
 </div>
+
 
 
 
