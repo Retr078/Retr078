@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="imgs/pacman.jpg" alt="Masterhead Image" style="width:100%; height:auto;">
+<img src="imgs/croped cyber.gif" alt="Masterhead Image" style="width:100%; height:auto;">
 
 </div>
 
