@@ -4,16 +4,14 @@
 
 </div>
 
-# 💾 Christofer G. Pinheiro [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christofer-gabriel-pinheiro-a3b4b11a3/)
-
-
+# 💾 Christofer G. Pinheiro [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christofer-gabriel-pinheiro-a3b4b11a3/) 
 
 `Front-End Software Developer` 
 
 Hi there! I'm Chris, a front-end software developer who loves making beautiful and user friendly websites and mobile apps for your brand and company. From the first idea to the final product, I handle everything to make sure your project not only looks great but also works great! Let's create something amazing together! 
 [Contact Me](mailto:cgpin78@outlook.com)
 
----
+#
 
 ## 🧰 Tech Stack
 
