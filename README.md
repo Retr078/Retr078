@@ -1,8 +1,4 @@
-<div align="center">
-
 # 💾 Christofer G. Pinheiro [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christofer-gabriel-pinheiro-a3b4b11a3/)
-
-</div>
 
 `Front-End Software Developer`
 
