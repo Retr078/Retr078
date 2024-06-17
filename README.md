@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/564x/63/64/63/63646347a757ec20623d49beacb8dca2.jpg" alt="Masterhead Image" style="width:100%; height:auto;">
+<img src="https://i.pinimg.com/originals/7a/61/fe/7a61fe192013a896351c2a315238a36e.gif" alt="Masterhead Image" style="width:100%; height:200;">
 
 </div>
 
