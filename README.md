@@ -1,3 +1,9 @@
+<div align="center">
+
+![Masterhead Image](https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif)
+
+</div>
+
 
 
 # 💾 Christofer G. Pinheiro [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christofer-gabriel-pinheiro-a3b4b11a3/)
