@@ -1,3 +1,5 @@
+# 💾 Christofer G. Pinheiro [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christofer-gabriel-pinheiro-a3b4b11a3/)
+
 <div align="center">
 
 <img src="imgs/croped cyber.gif" alt="Masterhead Image" style="width:100%; height:auto;">
@@ -7,7 +9,7 @@
 
 
 
-# 💾 Christofer G. Pinheiro [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christofer-gabriel-pinheiro-a3b4b11a3/)
+
 
 
 
