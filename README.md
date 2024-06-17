@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/7a/61/fe/7a61fe192013a896351c2a315238a36e.gif" alt="Masterhead Image" style="width:100%; height:200;">
+<img src="imgs/croped cyber.gif" alt="Masterhead Image" style="width:100%; height:180;">
 
 </div>
 
