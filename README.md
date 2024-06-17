@@ -4,9 +4,10 @@
 
 
 
-`Front-End Software Developer` <img align = right alt="gif" width = "160" src = "https://cdn.dribbble.com/users/6501075/screenshots/19994346/media/1ac3a7f59b24698b9c32f1025074abd1.gif"> 
+`Front-End Software Developer` 
 
-Hi there! I'm Chris, a front-end software developer who loves making beautiful and user friendly websites and mobile apps for your brand and company. From the first idea to the final product, I handle everything to make sure your project not only looks great but also works great! Let's create something amazing together! [Contact Me](mailto:cgpin78@outlook.com)
+Hi there! I'm Chris, a front-end software developer who loves making beautiful and user friendly websites and mobile apps for your brand and company. From the first idea to the final product, I handle everything to make sure your project not only looks great but also works great! Let's create something amazing together! 
+[Contact Me](mailto:cgpin78@outlook.com)
 
 ---
 
